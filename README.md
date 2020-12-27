@@ -42,3 +42,15 @@
 ### 10.js
     You are given with two arrays.
     Your task is to merge the array such that first array is in ascending order and second one in descending order.
+    
+### 34.js
+    Indian politics has an interesting trend in history. A party which assumes that it is the undefeatable
+    champion in elections has been defeated by other parties in many instances.
+    You are a data analyst in the Election Commission. You are given a list containing a year and the party 
+    which won the election in that particular year. Your task is to analyse the trend and find the years in which, 
+    one party, which won many elections consecutively, was suddenly defeated by another.
+    
+### 71.js
+    Given two numbers N,K followed by an array of N elements, 
+    print the array after doing right shift K times (in cyclic manner).
+    Input Size : 1 <= N, K <= 100000
