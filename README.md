@@ -43,6 +43,14 @@
     You are given with two arrays.
     Your task is to merge the array such that first array is in ascending order and second one in descending order.
     
+### 11.js
+    You are given with an array. 
+    For each element present in the array your task is to print the next smallest than that number. 
+    If it is not smallest print -1
+    
+### 12.js
+    
+    
 ### 34.js
     Indian politics has an interesting trend in history. A party which assumes that it is the undefeatable
     champion in elections has been defeated by other parties in many instances.
